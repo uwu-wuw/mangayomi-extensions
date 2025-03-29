@@ -4,11 +4,11 @@ Source get manganatoSource => _manganatoSource;
 
 Source _manganatoSource = Source(
   name: "Manganato",
-  baseUrl: "https://manganato.com",
+  baseUrl: "https://natomanga.com",
   lang: "en",
   typeSource: "mangabox",
   iconUrl:
-      "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/manga/multisrc/mangabox/src/manganato/icon.png",
+      "https://raw.githubusercontent.com/uwu-wuw/mangayomi-extensions/$branchName/dart/manga/multisrc/mangabox/src/manganato/icon.png",
   dateFormat: "MMM dd,yy",
   dateFormatLocale: "en",
 );
